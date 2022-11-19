@@ -7,4 +7,4 @@ A sandbox for learning Git and GitHub by:
 - Commiting
 - Pushing
 - Opening a Pull Request
-- Merging a PUll Request 
+- Merging a Pull Request 
